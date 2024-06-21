@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="page.css">
+    <title>Formulário</title>
+</head>
+<body style="background-color: rgb(62, 62, 63);">
+
+    <div class="container">
+
+        <div class="form_box">
+
+            <h2 class="tittle" style="padding: 16px;">Faça seu pedido</h2>
+            <form method="post">
+                <label>Seu nome</label>
+                <input type="text" name="Nome" required class="inputs">
+                
+                <label>Seu Email</label>
+                <input type="email" name="Email" required class="inputs" style="margin-top: 20px; margin-bottom: 20px;">
+                
+                <label>Produtos:</label>
+                <select name="Produtos" style="width: 100%; margin-top: 10px;">
+                    <option>Selecione uma opção</option>
+                    <option value="manjuba">Peixe-manjuba</option>
+                    <option value="corvina">Peixe-corvina</option>
+                    <option value="castanha">Peixe-castanha</option>
+                    <option value="sardinha">Peixe-sardinha</option>
+                    <option value="camarão">Filezinho-camarão</option>
+                    <option value="tainha">Peixe-tainha</option>
+                    <option value="pescada">Peixe-pescada</option>
+                    <option value="atum">Atum-inteiro</option>
+                    <option value="xerelete">Peixe-xerelete</option>
+                    <option value="serrinha">Peixe-serrinha</option>
+                </select>
+
+                <button type="submit" class="button">Realizar pedido</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
