@@ -1,0 +1,2 @@
+Este site foi o primeiro site criado por mim e mais alguns colegas da facudade para uma apresentação do P1 na matéria de desenvolvimento WEB.
+Este site me deixa muito orgulhoso pois por mais que ele seja simples e de baixa complexidade ele mostra que mesmo eu alguns meses atrás fui capaz de criar uma página WEB e sempre que penso nisso eu tenho certeza que eu consigo realizar trabalhos cada vez mais complexos. 
